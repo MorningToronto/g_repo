@@ -10,7 +10,7 @@ Gwyneth
 
 Dear Gwen,
 
-Thank you for taking time an putting efforts into writing your last email.
+Thank you for taking time and putting efforts into writing your last email.
 
 It is much appriciated! Thank you.
 
@@ -28,3 +28,28 @@ It is much appreciated as well!  Thank you.
 I hope you are doing OK. Maybe I will see you on Monday for a drink with S.
 
 Gwyneth (Gwen)
+
+-------------------------------------------------------------
+
+Good morning!
+
+I like your new readme description:) 
+
+Just did an interesting exersise - what happened, you accepted pull request and then made some changes to your repository.
+So I was left with version of forked repo that was outdated now. Uparently one need not only add original repo (in this case
+https://github.com/grevans/g_repo.git ) as a remote and fetch that repo, but also "checkout" and "rebase"... I'll add
+screenshot to my repo how I did it, but basically I followed this: 
+http://stackoverflow.com/questions/7244321/how-to-update-a-github-forked-repository 
+
+Used shell lol. If we fix your GUI connection problems, you would also be able to work with GIT the way it supposed to be worked 
+with. Using upload is a weird way to work with git:P You remember how I have fixed your WiFi? Should also take just a few minutes...
+
+I could fix your problem using VNC, but that imply giving me a remote access to your notebook screen, keyboard and mouse. 
+Well that would be password protected and after I finished you would be able to change password or uninstall VNC. But...
+It somehow feels like not a good idea, plus I rather do it in person.
+
+I bet without spellchecker my spelling is terrible. Feel free to fix any grammar spelling mistakes in msg above if you would be 
+in a mood for that,
+Vitaly
+
+ 
